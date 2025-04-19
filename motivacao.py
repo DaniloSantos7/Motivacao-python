@@ -1,0 +1,5 @@
+nome=(input("Qual o seu nome? "))
+motivo=(input("Porque você quer aprender Python? "))
+print(f"\n Olá {nome}! que legal que você quer aprender Python.")
+print(f"Sua motivação {motivo}")
+print("Lembre-se presistência e prática são a chave do sucesso!")
